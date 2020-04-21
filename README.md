@@ -5,6 +5,8 @@ This was an early project in the Udacity curriculum in which we constructed a si
 
 ## Datasources
 Note, there may be some differences from this dataset and the one included in the folders.
+<br>
+<br>
 [Kaggle: Bike Sharing Demand Dataset](https://www.kaggle.com/c/bike-sharing-demand/data)
 
 ## Sub-headings within predict-bike-sharing-patterns.ipynb
