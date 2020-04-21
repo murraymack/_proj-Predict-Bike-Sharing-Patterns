@@ -9,7 +9,7 @@ Note, there may be some differences from this dataset and the one included in th
 <br>
 [Kaggle: Bike Sharing Demand Dataset](https://www.kaggle.com/c/bike-sharing-demand/data)
 
-## Sub-headings within predict-bike-sharing-patterns.ipynb
+## Sub-headings within the main notebook
 1. Project Overview
 2. Load and prepare the data
 3. Checking out the data
